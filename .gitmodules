@@ -1,0 +1,3 @@
+[submodule "projects/cfg_dom_liveness"]
+	path = projects/cfg_dom_liveness
+	url = https://github.com/Levoluti0n/iloc-cfg-dominator-liveness.git
